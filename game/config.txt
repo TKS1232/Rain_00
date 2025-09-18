@@ -1,0 +1,6 @@
+Game_name:新的游戏1;
+Game_key:125bbd7659b8ac1;
+Title_img:mainback.png;
+Title_bgm:rain-sounds-sonidos-de-lluvia-110123.mp3;
+Textbox_theme:imss;
+Game_Logo:æå2.png;
